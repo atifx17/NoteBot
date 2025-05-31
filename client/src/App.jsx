@@ -9,7 +9,7 @@ export default function App() {
 const fetchFlashcard = async (query) => {
   setLoading(true);
   try {
-    const res = await fetch("https://notebot-h1qu.onrender.com", {
+    const res = await fetch(`${import.meta.env.VITE_API_URL}/api/flashcard`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ topic: query }),
