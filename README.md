@@ -22,7 +22,7 @@
 
 ## 🧠 Gemini AI Integration
 
-NoteBot integrates **Google's Gemini AI API** to offer intelligent assistance while writing notes. This allows users to:
+NoteBot integrates **Google's Gemini AI** to offer intelligent assistance while writing notes. This allows users to:
 
 - 💡 Generate note content from prompts
 - ✨ Rewrite or summarize existing notes
