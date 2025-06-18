@@ -4,7 +4,7 @@
 
 > 📦 Frontend: Vite + React (deployed on Vercel)  
 > 🔧 Backend: Node.js + Express (deployed on Render)  
-> 🤖 AI: Gemini AI API (Google Generative AI)
+> 🤖 AI: Gemini AI (Google Generative AI)
 
 ---
 
